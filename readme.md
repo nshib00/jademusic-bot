@@ -9,7 +9,7 @@ __JadeMusic Bot__
 ![Static Badge](https://img.shields.io/badge/made%20by-nshib00-00aa00)
 ![Static Badge](https://img.shields.io/badge/python%20version-3.11.4-blue)
 ![Static Badge](https://img.shields.io/badge/pyTelegramBotAPI%20version-4.12-aa00aa)
-![Static Badge](https://img.shields.io/badge/python-100%-orange)
+![Static Badge](https://img.shields.io/badge/python-100%25-orange)
 
 ---   
 
