@@ -1,10 +1,7 @@
 __JadeMusic Bot__
 ---
 
-<p style='text-align: center'>
-<img src='images/logo.jpg' alt='JadeMusic logo' width=250 height=250/>
-</p>
-
+<img align="left" src='images/logo.jpg' alt='JadeMusic logo' width=250 height=250/>
 
 ![Static Badge](https://img.shields.io/badge/made%20by-nshib00-00aa00)
 ![Static Badge](https://img.shields.io/badge/python%20version-3.11.4-blue)
